@@ -1,0 +1,11 @@
+{
+    "editor.codeActionsOnSave": {
+    "source.fixAll.biome": "explicit"
+  },
+    "workbench.colorTheme": "Omni",
+    "workbench.iconTheme": "symbols",
+    "workbench.startupEditor": "none",
+    "explorer.confirmDelete": false,
+    "explorer.compactFolders": false,
+    "editor.indentSize": 2,
+}
